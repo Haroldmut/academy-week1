@@ -1,0 +1,13 @@
+package introjava;
+
+public class ArithmeticOperations {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int var1 = 23;
+		int var2 = 5;
+		int varTotal = 23 * 5;
+		System.out.println(varTotal);
+	}
+
+}

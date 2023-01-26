@@ -1,0 +1,10 @@
+package introjava;
+
+public class animalGuessingProgram {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
